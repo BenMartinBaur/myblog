@@ -3,6 +3,10 @@ languageCode = "en-us"
 theme = "hello-friend"
 paginate = 5
 
+# Show and enable EmojiSymbols
+enableInlineShortcodes = true
+enableEmoji = true
+
 [params]
   # dir name of your blog content (default is `content/posts`)
   contentTypeName = "post"
